@@ -15,7 +15,7 @@ Spatial analysis of 2023 tornado events across the Southeast and Mid-Atlantic Un
 ## Data
 Raw data not included due to file size. Download directly from NOAA:
 https://www.ncei.noaa.gov/pub/data/swdi/stormevents/csvfiles/
-Download the file: StormEvents_details-ftp_v1.0_d2023_[date].csv.gz
+Download the file: StormEvents_details-ftp_v1.0_d2023_c20260323.csv.gz
 
 ## What I'd Do Next
 - Add hurricane track overlay for the 2023 Atlantic season
