@@ -12,9 +12,6 @@ Spatial analysis of 2023 tornado events across the Southeast and Mid-Atlantic Un
 - **Appalachian gap:** A notable reduction in tornado activity over the Appalachian Mountains — partly terrain-driven (mountains disrupt low-level wind shear) and partly a reflection of population reporting bias in rural areas
 - **Population bias:** Point clustering near urban centers reflects higher spotter and emergency management density, not necessarily higher tornado frequency
 
-## Map
-![2023 Tornado Events](southeast_tornado_2023.png)
-
 ## What I'd Do Next
 - Add hurricane track overlay for the 2023 Atlantic season
 - Build a heatmap density layer to visualize tornado frequency independent of point clustering
