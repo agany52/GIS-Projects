@@ -17,6 +17,10 @@ Raw data not included due to file size. Download directly from NOAA:
 https://www.ncei.noaa.gov/pub/data/swdi/stormevents/csvfiles/
 Download the file: StormEvents_details-ftp_v1.0_d2023_c20260323.csv.gz
 
+## Map
+The image is too big to view in Github directly, so here is a link if you need:
+https://image2url.com/r2/default/images/1774928872270-b64ec7e6-c8fa-4f6d-a6fd-615d1364ce0a.png
+
 ## What I'd Do Next
 - Add hurricane track overlay for the 2023 Atlantic season
 - Build a heatmap density layer to visualize tornado frequency independent of point clustering
